@@ -2,7 +2,10 @@
 body {
   font-family: 'Montserrat','Open Sans', sans-serif;
   line-height: 1.6em;
-  background-color: #d1d8d8;
+  background-image: url('images/background-img.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
 }
 
 h1 {
@@ -88,7 +91,7 @@ li > a:hover {
   left: 0;
   top: 0;
   bottom: 0;
-  opacity: 0.5;
+  opacity: 0.7;
   font-size: 30px;
 }
 
