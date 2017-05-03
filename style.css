@@ -85,13 +85,13 @@ li > a:hover {
 }
 
 #sidebar {
-  background-color: #785e4d;
+  background-color: #9B8281;
   position: fixed;
   width: 100px;
   left: 0;
   top: 0;
   bottom: 0;
-  opacity: 0.7;
+  opacity: 0.9;
   font-size: 30px;
 }
 
