@@ -47,7 +47,7 @@ li > a:hover {
 }
 
 .container {
-  width: 700px;
+  width: 900px;
   margin: 0 auto;
 }
 
@@ -79,4 +79,19 @@ li > a:hover {
 
 .list-inline {
   padding-left: 0px;
+}
+
+#sidebar {
+  background-color: #785e4d;
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0.5;
+  font-size: 30px;
+}
+
+#page-content {
+  margin-left: 100px;
 }
